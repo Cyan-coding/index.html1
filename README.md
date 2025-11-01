@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -14,7 +14,6 @@ Let's celebrate this special season together with fun games, exciting performanc
 This celebration is not just about gifts, but about sharing joy, love, and friendship.<br><br>
 We hope to see everyone there to make this Christmas more memorable and full of hapiness!!
 </p>
-</div>
 
 </body>
 </html>
