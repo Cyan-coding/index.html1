@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Merry Christmas Thessalonians!</title>
+<title> 
+  Merry Christmas Thessalonians!
+</title>
 </head>
 
 <p style="font-size: 18px; line-height: 1.6">
